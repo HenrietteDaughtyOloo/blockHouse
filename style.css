@@ -1,0 +1,119 @@
+@media (min-width: 600px) and (max-width: 768px) {
+    body {
+      background-color: peru;
+    }
+  }
+  
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 1% 20%;
+    
+}
+li{
+        list-style-type: none;
+        font-size: large;
+        padding: 0px 105px;
+        text-decoration: solid;
+        text-decoration: none;
+        margin-left: 50%;
+}
+#Img1{
+width: 800px;
+height: min-content;
+border-radius: 10px;
+
+}
+
+#part1{
+    display:flex;
+    border: solid 2px yellow;
+    border-radius: 4px;
+    background-color: yellow;
+    justify-content: space-between;
+}
+.part2{
+    display: flex;
+    justify-content: space-between;
+}
+#instructor{
+    margin-right: 10%;
+    border-width: 600px;
+    border: solid 4px black;
+    background-color: white;
+    font-weight: bolder;
+    justify-content: space-between;
+}
+#searchbtn{
+    margin-right: 10%;
+    
+}
+#btn1{
+    padding: 0px, 100px;
+    margin-left: 25%;
+    color: white;
+    background-color: orange;
+    border: solid orange 25px;
+    border-radius: 5px;
+}
+#btn0{
+    border: solid gray 2px;
+    border-radius: 4px;
+   /* margin-bottom: 10%;*/
+
+}
+#btn4{
+    border: solid gray 2px;
+    border-radius: 4px;
+    padding: 10px; 
+}
+.heading2{
+    text-align: center;
+}
+.viewed{
+    display: flex;
+    margin-left: 10%;
+}
+.lego1{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+#get{
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 1%;
+    border: solid yellow 4px;
+    background-color: yellow;
+}
+#btn2{
+    padding: 0px, 100px;
+    margin-left: 45%;
+    color: white;
+    background-color: orange;
+    border: solid orange 25px;
+    border-radius: 5px;
+}
+#btn5{
+    color: white;
+    background-color: red;
+    padding: 6px;
+    border-radius: 4px;
+}
+#btn6{
+    color: white;
+    background-color:white;
+    padding: 6px;
+    padding-right: 100px;
+    border-radius: 4px;
+    margin-right: 5%;
+}
+.Last{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #26004c;
+    margin: 0% 1%;
+}
