@@ -159,10 +159,10 @@ p{
     justify-content: space-between;
     background-color: #26004c;
     margin: 0% 0%;
-    padding-right: 37%;
+    padding-right: 35%;
     padding-left: 1%;
 }
-/*
+
 
 @media (max-width:1280px){
     .midSection{
@@ -205,7 +205,7 @@ p{
         margin-right: 13%
 
     }
-}/*
+}
 @media (max-width:1024px){
     .nav{
         margin-right: 3%;
